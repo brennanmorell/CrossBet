@@ -1,0 +1,1006 @@
+NBA
+Charlotte vs Toronto
+
+New York vs Oklahoma City
+
+Milwaukee vs Brooklyn
+
+Toronto vs Chicago
+-110, -110 (Opening)
+-105, -115 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-102, -108 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-102, -108 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Atlanta vs LA Clippers
+
+Indiana vs Cleveland
+
+Dallas vs Detroit
+
+New Orleans vs Memphis
+
+Cleveland vs Minnesota
+-110, -110 (Opening)
+-105, -115 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-105, -115 (MyBookie)
+-115, -105 (Intertops)
+-102, -108 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-102, -108 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+San Antonio vs Orlando
+
+Sacramento vs LA Lakers
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-105, -115 (MyBookie)
+-105, -115 (Intertops)
+-101, -109 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-101, -109 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Sacramento vs Golden State
+
+Philadelphia vs Boston
+
+LA Lakers vs Phoenix
+
+Minnesota vs Denver
+
+Miami vs Houston
+
+Portland vs Utah
+
+
+NHL
+Buffalo vs Ottawa
+-245, 205 (Opening)
+-220, 180 (BOVADA.LV)
+-210, 175 (Caesars)
+-205, 180 (Westgate)
+-210, 180 (BetOnline)
+-210, 175 (MyBookie)
+-220, 180 (Intertops)
+-200, 185 (5Dimes)
+-210, 175 (TopBet)
+-210, 175 (BetNow)
+-210, 175 (GTBets)
+-210, 180 (SportsBetting)
+-200, 185 (SportBet)
+-230, 185 (Station)
+-200, 170 (Wynn)
+
+Arizona vs Edmonton
+-155, 135 (Opening)
+-150, 130 (BOVADA.LV)
+-150, 130 (Caesars)
+-150, 130 (Westgate)
+-155, 135 (BetOnline)
+-150, 130 (MyBookie)
+-150, 130 (Intertops)
+-146, 136 (5Dimes)
+-150, 130 (TopBet)
+-150, 130 (BetNow)
+-150, 130 (GTBets)
+-155, 135 (SportsBetting)
+-146, 136 (SportBet)
+-155, 125 (Station)
+-150, 130 (Wynn)
+
+Philadelphia vs Calgary
+
+Colorado vs New Jersey
+-170, 150 (Opening)
+-180, 160 (BOVADA.LV)
+-180, 160 (Caesars)
+-185, 165 (Westgate)
+-180, 160 (BetOnline)
+-190, 160 (MyBookie)
+-190, 165 (Intertops)
+-180, 168 (5Dimes)
+-175, 155 (TopBet)
+-170, 150 (BetNow)
+-170, 150 (GTBets)
+-180, 160 (SportsBetting)
+-180, 168 (SportBet)
+-185, 155 (Station)
+-185, 165 (Wynn)
+
+St. Louis vs Detroit
+
+Vancouver vs Pittsburgh
+-125, 105 (Opening)
+-140, 120 (BOVADA.LV)
+-140, 120 (Caesars)
+-135, 115 (Westgate)
+-130, 110 (BetOnline)
+-135, 115 (MyBookie)
+-135, 115 (Intertops)
+-130, 120 (5Dimes)
+-130, 110 (TopBet)
+-135, 115 (BetNow)
+-135, 115 (GTBets)
+-130, 110 (SportsBetting)
+-130, 120 (SportBet)
+-145, 115 (Station)
+-135, 115 (Wynn)
+
+Anaheim vs Minnesota
+-220, 190 (Opening)
+-225, 185 (BOVADA.LV)
+-220, 180 (Caesars)
+-220, 195 (Westgate)
+-225, 195 (BetOnline)
+-235, 190 (MyBookie)
+-225, 185 (Intertops)
+-215, 195 (5Dimes)
+-220, 180 (TopBet)
+-225, 185 (BetNow)
+-225, 185 (GTBets)
+-225, 195 (SportsBetting)
+-215, 195 (SportBet)
+-220, 180 (Station)
+-220, 190 (Wynn)
+
+Toronto vs Columbus
+
+NY Islanders vs Toronto
+-275, 230 (Opening)
+-245, 205 (BOVADA.LV)
+-240, 200 (Caesars)
+-235, 205 (Westgate)
+-240, 200 (BetOnline)
+-245, 195 (MyBookie)
+-235, 195 (Intertops)
+-225, 205 (5Dimes)
+-250, 210 (TopBet)
+-235, 195 (BetNow)
+-235, 195 (GTBets)
+-240, 200 (SportsBetting)
+-225, 205 (SportBet)
+-250, 200 (Station)
+-230, 195 (Wynn)
+
+Dallas vs Winnipeg
+-260, 220 (Opening)
+-245, 205 (BOVADA.LV)
+-250, 210 (Caesars)
+-250, 220 (Westgate)
+-260, 220 (BetOnline)
+-265, 215 (MyBookie)
+-260, 220 (Intertops)
+-246, 226 (5Dimes)
+-255, 215 (TopBet)
+-255, 215 (BetNow)
+-255, 215 (GTBets)
+-260, 220 (SportsBetting)
+-246, 226 (SportBet)
+-250, 200 (Station)
+-250, 210 (Wynn)
+
+Florida vs San Jose
+
+
+UFC
+Oli Thompson vs Cheick Kongo
+
+Mark Hunt vs Alistair Overeem
+-105, -135 (Opening)
+115, -145 (BOVADA.LV)
+120, -140 (Westgate)
+115, -135 (BetOnline)
+115, -135 (MyBookie)
+115, -145 (Intertops)
+125, -145 (5Dimes)
+110, -140 (TopBet)
+125, -145 (BetNow)
+115, -135 (SportsBetting)
+125, -145 (SportBet)
+
+Tyron Woodley vs Stephen Thompson
+-105, -116 (Opening)
+105, -135 (BOVADA.LV)
+110, -130 (Westgate)
+100, -120 (BetOnline)
+110, -130 (MyBookie)
+-105, -125 (Intertops)
+110, -130 (5Dimes)
+100, -130 (TopBet)
+110, -130 (BetNow)
+100, -120 (SportsBetting)
+110, -130 (SportBet)
+100, -130 (Station)
+-105, -125 (Mirage)
+
+Hector Lombard vs Johny Hendricks
+-185, 148 (Opening)
+-150, 120 (BOVADA.LV)
+-140, 120 (Westgate)
+-141, 121 (BetOnline)
+-140, 120 (MyBookie)
+-150, 130 (5Dimes)
+-155, 125 (TopBet)
+-150, 130 (BetNow)
+-154, 120 (GTBets)
+-141, 121 (SportsBetting)
+-150, 130 (SportBet)
+
+Patricky Freire vs Josh Thomson
+
+Matt Mitrione vs Fedor Emelianenko
+-187, 165 (Opening)
+-155, 125 (BOVADA.LV)
+-155, 135 (5Dimes)
+-155, 135 (SportBet)
+
+Mauricio Alonso vs Josh Koscheck
+
+Travis Browne vs Derek Lewis
+-135, 108 (Opening)
+105, -135 (BOVADA.LV)
+-110, -110 (Westgate)
+-105, -115 (BetOnline)
+-105, -115 (MyBookie)
+-105, -115 (5Dimes)
+100, -130 (TopBet)
+-105, -115 (BetNow)
+-105, -115 (SportsBetting)
+-105, -115 (SportBet)
+
+Cezar Ferreira vs Elias Theodorou
+-120, -120 (Opening)
+-130, 100 (BOVADA.LV)
+-120, 100 (Westgate)
+-125, 105 (BetOnline)
+-125, 105 (MyBookie)
+-125, 105 (5Dimes)
+-130, 100 (TopBet)
+-125, 105 (BetNow)
+-125, 100 (GTBets)
+-125, 105 (SportsBetting)
+-125, 105 (SportBet)
+
+Tony Ferguson vs Khabib Nurmagomedov
+186, -233 (Opening)
+165, -205 (BOVADA.LV)
+180, -210 (Westgate)
+170, -200 (BetOnline)
+170, -200 (MyBookie)
+155, -195 (Intertops)
+170, -200 (5Dimes)
+155, -190 (TopBet)
+170, -200 (BetNow)
+170, -200 (SportsBetting)
+170, -200 (SportBet)
+175, -210 (Station)
+
+Beneil Dariush vs Edson Barboza
+140, -180 (Opening)
+145, -175 (BOVADA.LV)
+145, -175 (5Dimes)
+145, -175 (SportBet)
+
+Vitor Belfort vs Kelvin Gastelum
+250, -333 (Opening)
+260, -340 (BOVADA.LV)
+260, -350 (5Dimes)
+260, -350 (SportBet)
+
+
+NCAAB
+Marist vs Saint Peter's
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-104, -106 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-104, -106 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Dayton vs Saint Louis
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-107, -103 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-107, -103 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+LSU vs Mississippi-Ole Miss
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-102, -108 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-102, -108 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+George Washington vs Davidson
+
+Notre Dame vs Boston College
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-105, -115 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-105, -105 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-105, -115 (SportsBetting)
+-105, -105 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Ball State vs Northern Illinois
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-105, -115 (Intertops)
+-105, -105 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-105, -105 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+St. John's vs Butler
+
+Rutgers vs Purdue
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-105, -105 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-105, -105 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Cincinnati vs South Florida
+
+Penn State vs Nebraska
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-102, -118 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-107, -103 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-102, -118 (SportsBetting)
+-107, -103 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Saint Joseph's vs VCU
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-105, -115 (Intertops)
+-105, -105 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-105, -105 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+IUPUI-Indiana Purdue vs South Dakota State
+
+Texas vs Oklahoma
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-102, -108 (5Dimes)
+-105, -115 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-102, -108 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Tennessee vs Kentucky
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-104, -106 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-104, -106 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Fordham vs Rhode Island
+
+Florida vs Auburn
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-105, -105 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-105, -105 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Richmond vs George Mason
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-107, -103 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-107, -103 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Toledo vs Akron
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-105, -105 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-105, -105 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+North Dakota State vs IPFW Fort Wayne
+
+Colorado State vs Wyoming
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-105, -115 (Intertops)
+-103, -107 (5Dimes)
+-105, -115 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-103, -107 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Temple vs East Carolina
+
+Tulsa vs Central Florida
+-115, -105 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-105, -115 (BetOnline)
+-110, -110 (MyBookie)
+-105, -115 (Intertops)
+-107, -103 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-105, -115 (SportsBetting)
+-107, -103 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Wofford vs UNC Greensboro
+
+Bradley vs Northern Iowa
+
+Bowling Green vs Western Michigan
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-115, -105 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-109, -101 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-115, -105 (SportsBetting)
+-109, -101 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Tulane vs Southern Methodist
+
+Iona vs Canisius
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-105, -105 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-105, -105 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Furman vs Western Carolina
+
+Iowa State vs Kansas State
+
+Creighton vs Seton Hall
+
+Oklahoma State vs TCU
+
+Indiana vs Minnesota
+
+Wichita State vs Southern Illinois
+
+UMass vs Duquesne
+
+Drake vs Evansville
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-103, -107 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-103, -107 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Samford vs East Tennessee State
+
+Xavier vs Providence
+
+Chattanooga vs VMI
+
+Denver vs Western Illinois
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-115, -105 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-107, -103 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-115, -105 (SportsBetting)
+-107, -103 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Indiana State vs Loyola-Chicago
+
+Maryland vs Northwestern
+
+North Carolina vs North Carolina State
+
+Illinois State vs Missouri State
+
+LIU-Brooklyn vs St. Francis-Brooklyn
+
+Wake Forest vs Clemson
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-105, -115 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-103, -107 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-105, -115 (SportsBetting)
+-103, -107 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Boise State vs New Mexico
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-105, -105 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-105, -105 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Arkansas vs South Carolina
+
+Georgia Tech vs Miami
+
+Buffalo vs Central Michigan
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-118, -102 (BetOnline)
+-110, -110 (MyBookie)
+-115, -105 (Intertops)
+-105, -105 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-118, -102 (SportsBetting)
+-105, -105 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Ohio State vs Michigan State
+-115, -105 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-105, -115 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-107, -103 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-105, -115 (SportsBetting)
+-107, -103 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Virginia Tech vs Pittsburgh
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-105, -115 (BetOnline)
+-110, -110 (MyBookie)
+-105, -115 (Intertops)
+-105, -105 (5Dimes)
+-105, -115 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-105, -115 (SportsBetting)
+-105, -105 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Miami-Ohio vs Kent State
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-118, -102 (BetOnline)
+-110, -110 (MyBookie)
+-115, -105 (Intertops)
+-109, -101 (5Dimes)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-118, -102 (SportsBetting)
+-109, -101 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Alabama vs Missouri
+
+La Salle vs St. Bonaventure
+
+Mississippi State vs Georgia
+-110, -110 (Opening)
+-110, -110 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-103, -107 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-103, -107 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Ohio vs Eastern Michigan
+-110, -110 (Opening)
+-115, -105 (BOVADA.LV)
+-110, -110 (Caesars)
+-110, -110 (Westgate)
+-110, -110 (BetOnline)
+-110, -110 (MyBookie)
+-110, -110 (Intertops)
+-103, -107 (5Dimes)
+-110, -110 (TopBet)
+-110, -110 (BetNow)
+-110, -110 (GTBets)
+-110, -110 (SportsBetting)
+-103, -107 (SportBet)
+-110, -110 (Station)
+-110, -110 (Wynn)
+
+Duke vs Virginia
+
+
+BOXING
+Deontay Wilder vs Gerald Washington
+-1667, 800 (Opening)
+-1400, 750 (BOVADA.LV)
+-1500, 1000 (5Dimes)
+-1500, 1000 (SportBet)
+
+David Haye vs Tony Bellew
+-625, 365 (Opening)
+-800, 500 (BOVADA.LV)
+-800, 550 (5Dimes)
+-800, 550 (SportBet)
+
+Eleider Alvarez vs Lucian Bute
+-588, 360 (Opening)
+-335, 245 (5Dimes)
+-335, 245 (SportBet)
+
+Gary Russell Jr vs Oscar Escandon
+-5000, 1400 (Opening)
+-5250, 1750 (5Dimes)
+-5250, 1750 (SportBet)
+
+Miguel Angel Cotto vs James Kirkland
+-500, 300 (Opening)
+-500, 350 (BOVADA.LV)
+-420, 350 (Westgate)
+-460, 360 (BetOnline)
+-445, 345 (MyBookie)
+-420, 375 (5Dimes)
+-450, 325 (TopBet)
+-440, 350 (BetNow)
+-460, 360 (SportsBetting)
+-420, 375 (SportBet)
+-500, 350 (Station)
+-500, 350 (Mirage)
+-425, 325 (Wynn)
+
+Francisco Vargas vs Miguel Berchelt
+-303, 900 (Opening)
+-135, 105 (BOVADA.LV)
+-135, 115 (BetOnline)
+-125, 105 (5Dimes)
+-133, 105 (GTBets)
+-135, 115 (SportsBetting)
+-125, 105 (SportBet)
+
+Gavin McDonnell vs Rey Vargas
+144, -196 (Opening)
+210, -270 (BOVADA.LV)
+220, -260 (5Dimes)
+220, -260 (SportBet)
+
+Jermell Charlo vs Charles Hatley
+-1667, 650 (Opening)
+-1000, 600 (BOVADA.LV)
+-1000, 675 (BetOnline)
+-1200, 775 (5Dimes)
+-1000, 675 (SportsBetting)
+-1200, 775 (SportBet)
+
+Guillermo Rigondeaux vs Moises Flores
+-1000, 500 (Opening)
+-800, 500 (BOVADA.LV)
+-900, 500 (5Dimes)
+-900, 500 (SportBet)
+
+Petteri Fröjdholm vs Faroukh Kourbanov
+-400, 355 (Opening)
+
+Scott Cardle vs Luke Campbell
+440, -769 (Opening)
+
+Adrien Broner vs Adrian Granados
+-500, 300 (Opening)
+-350, 250 (BOVADA.LV)
+-360, 300 (Westgate)
+-310, 260 (BetOnline)
+-315, 255 (MyBookie)
+-300, 270 (5Dimes)
+-300, 220 (TopBet)
+-310, 255 (BetNow)
+-310, 260 (SportsBetting)
+-300, 270 (SportBet)
+-360, 280 (Station)
+-380, 300 (Mirage)
+-340, 280 (Wynn)
+
+Travis Kauffman vs Amir Mansour
+-156, 117 (Opening)
+-140, 100 (5Dimes)
+-140, 100 (SportBet)
+
+Demetrius Andrade vs Jack Culcay
+-2000, 900 (Opening)
+-1600, 800 (BOVADA.LV)
+-1500, 825 (5Dimes)
+-1500, 825 (SportBet)
+
+David Lemieux vs Curtis Stevens
+-286, 203 (Opening)
+-400, 300 (BOVADA.LV)
+-390, 300 (5Dimes)
+-390, 300 (SportBet)
+
+Artur Szpilka vs Dominic Breazeale
+-141, 105 (Opening)
+-160, 130 (BOVADA.LV)
+-160, 130 (5Dimes)
+-160, 130 (SportBet)
+
+Ohara Davies vs Derry Matthews
+-250, 180 (Opening)
+-500, 350 (BOVADA.LV)
+-490, 355 (5Dimes)
+-490, 355 (SportBet)
+
+Sam Eggington vs Paul Malignaggi
+-169, 124 (Opening)
+-230, 180 (BOVADA.LV)
+-240, 180 (5Dimes)
+-240, 180 (SportBet)
+
+Keith Thurman vs Danny Garcia
+-250, 180 (Opening)
+-260, 190 (BOVADA.LV)
+-240, 200 (Westgate)
+-235, 200 (BetOnline)
+-245, 195 (MyBookie)
+-245, 225 (5Dimes)
+-255, 215 (BetNow)
+-235, 200 (SportsBetting)
+-245, 225 (SportBet)
+-240, 190 (Station)
+-230, 180 (Mirage)
+-240, 200 (Wynn)
+
+David Avanesyan vs Lamont Peterson
+226, -323 (Opening)
+
+Craig Kennedy vs Matty Askin
+110, -147 (Opening)
+
+Jamie Conlan vs Yader Cardoza
+-10000, 1600 (Opening)
+-5250, 1750 (5Dimes)
+-5250, 1750 (SportBet)
+
+Cecilia Braekhus vs Klara Svensson
+-1000, 620 (Opening)
+-2250, 950 (BOVADA.LV)
+-1400, 850 (BetOnline)
+-2250, 1200 (5Dimes)
+-1400, 850 (SportsBetting)
+-2250, 1200 (SportBet)
+
+James Dickens vs Thomas Patrick Ward
+-500, 300 (Opening)
+-280, 220 (BOVADA.LV)
+-280, 220 (5Dimes)
+-280, 220 (SportBet)
+
+Chris Brown vs Soulja Boy
+100, 100 (Opening)
+
+Luke Campbell vs Jairo Lopez
+-50000, 1200 (Opening)
+-5000, 1400 (BOVADA.LV)
+-5000, 2000 (5Dimes)
+-5000, 2000 (SportBet)
